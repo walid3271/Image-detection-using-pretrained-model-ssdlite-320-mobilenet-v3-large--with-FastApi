@@ -1,0 +1,8 @@
+Python
+FastAPI
+Streamlit
+Torch
+torchvision
+Pillow
+Matplotlib
+Requests
